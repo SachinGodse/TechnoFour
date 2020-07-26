@@ -38,7 +38,7 @@ Recommender Systems
 Databases and SQL
 MapReduce
 Data Ethics
-```
+````
 
 ## ML
 
