@@ -5,7 +5,7 @@ Repo is to appriciate and explore the latest trends in CS and AI, Collect reusab
 ## Docker 
 https://training.play-with-docker.com/
 
-FooBar
+FooBarCat
 
 ## Data Science     
 https://www.kaggle.com/learn/overview  
