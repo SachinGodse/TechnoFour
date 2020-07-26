@@ -3,6 +3,7 @@
 Repo is to appriciate and explore the latest trends in CS and AI, Collect reusable design patterns, tips and tricks for enhanced productivity  
 
 ## Docker 
+https://training.play-with-docker.com/
 
 ## Data Science     
 https://www.kaggle.com/learn/overview  
