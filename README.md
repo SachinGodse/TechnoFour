@@ -1,14 +1,15 @@
 # TechnoFour
 
-Repo is to appriciate and explore the latest trends in CS and AI, Collect reusable design patterns, tips and tricks for enhanced productivity
+Repo is to appriciate and explore the latest trends in CS and AI, Collect reusable design patterns, tips and tricks for enhanced productivity  
 
-## Docker
+## Docker 
 
-## Data Science    
-https://www.kaggle.com/learn/overview
+## Data Science     
+https://www.kaggle.com/learn/overview  
 
 ## Python -- data-science-from-scratch
-https://github.com/joelgrus/data-science-from-scratch
+https://github.com/joelgrus/data-science-from-scratch   
+```
 A Crash Course in Python
 Visualizing Data
 Linear Algebra
@@ -34,10 +35,13 @@ Recommender Systems
 Databases and SQL
 MapReduce
 Data Ethics
+```
 
 ## ML
+
 ### fast.ai   
-http://course18.fast.ai/ml
-https://course.fast.ai/                    Practical Deep Learning for Coders, v3      *****
+http://course18.fast.ai/ml  
+https://course.fast.ai/                    Practical Deep Learning for Coders, v3      *****  
+
 
 ## DevOps
